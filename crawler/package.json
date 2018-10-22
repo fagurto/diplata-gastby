@@ -1,0 +1,18 @@
+{
+  "name": "diplata-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "googleapis": "^34.0.0",
+    "routes": "^2.1.0",
+    "scrape-it": "^5.1.0",
+    "simplecrawler": "^1.1.6"
+  }
+}
